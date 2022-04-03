@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ciphercode", "ciphercode\ciphercode.csproj", "{FD010757-3F8B-4D95-B296-D1AEBC9C8C14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD010757-3F8B-4D95-B296-D1AEBC9C8C14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD010757-3F8B-4D95-B296-D1AEBC9C8C14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD010757-3F8B-4D95-B296-D1AEBC9C8C14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD010757-3F8B-4D95-B296-D1AEBC9C8C14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0157CDBD-8B92-44E1-8E35-5EBECA33EC7E}
+	EndGlobalSection
+EndGlobal
