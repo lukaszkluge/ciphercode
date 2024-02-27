@@ -16,7 +16,7 @@
 
     static string EncryptWithCaesarCipher(string input, int key)
     {
-        // Convert the text to uppercase to simplify the encryption
+        // Convert the text to uppercase
         input = input.ToUpper();
         string encryptedText = "";
 
