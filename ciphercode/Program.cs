@@ -8,7 +8,7 @@
         Console.WriteLine("Enter the key (shift value):");
         int key = int.Parse(Console.ReadLine() ?? "");
 
-        // Call the encryption function and store the encrypted text
+        // Call the function and store the encrypted text
         string encryptedText = EncryptWithCaesarCipher(text, key);
 
         Console.WriteLine("ASCII Encryption: " + encryptedText);
